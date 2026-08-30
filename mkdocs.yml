@@ -1,0 +1,163 @@
+site_name: site
+site_description: A learning blog for high school subjects.
+site_author: 50cria
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.tabs.link
+    - content.code.annotate
+    - content.code.copy
+    - content.tooltips
+    - content.code.select
+
+  include_search_page: false
+  search_index_only: false
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - javascripts/mathjax/tex-mml-chtml.js
+  - javascripts/mathjax/input/tex/extensions/mhchem.js
+  - javascripts/mermaid/mermaid.min.js
+  - javascripts/mermaid.js
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  system_information: false
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.arithmatex:
+      generic: true
+  - footnotes
+  - pymdownx.mark
+  - attr_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - tables
+  - toc:
+      permalink: true
+
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+  - pymdownx.arithmatex:
+      generic: true
+
+nav:
+  - 简介:
+    - 首页: index.md
+    - 功能展示: introduction/index.md
+    - 提示框: introduction/admonitions/index.md
+    - 代码高亮: introduction/code-highlighting/index.md
+    - 内容标签: introduction/tabs-content/index.md
+    - 数学与图表: introduction/math-diagrams/index.md
+    - 交互功能: introduction/interactive-features/index.md
+    - 插入图片: introduction/images/index.md
+    - PDF 查看: introduction/pdf-viewer/index.md
+    - 更多目录:
+      - 下一级: introduction/more-dir/next/index.md
+      - 第一级:
+        - 第一级首页: introduction/more-dir/level1/index.md
+        - 第二级:
+          - 第二级首页: introduction/more-dir/level1/level2/index.md
+          - 第三级: introduction/more-dir/level1/level2/level3/index.md
+  - 语文: chinese/index.md
+  - 数学: math/index.md
+  - 英语:
+    - 英语首页: english/index.md
+    - 词汇:
+      - 词汇: english/vocabulary/index.md
+      - A 词组: english/vocabulary/a-phrases.md
+      - B 词组: english/vocabulary/b-phrases.md
+    - 语法: english/grammar/index.md
+    - 概要: english/summary/index.md
+    - 翻译:
+      - 简介: english/translation/index.md
+      - 暑假翻译60组: english/translation/summerholiday/index.md
+    - 作文: english/writing/index.md
+  - 物理: physics/index.md
+  - 化学: chemistry/index.md
+  - 生物:
+    - 生物首页: biology/index.md
+    - 细胞生物学:
+      - 细胞生物学: biology/cell/index.md
+      - 细胞构成生物体: biology/cell/basics.md
+      - 细胞中的分子组成: biology/cell/biomolecules.md
+      - 细胞的结构与功能: biology/cell/organelles.md
+      - 物质跨膜运输: biology/cell/transport.md
+      - 细胞增殖: biology/cell/division.md
+      - 细胞分化、衰老与凋亡: biology/cell/differentiation.md
+    - 细胞的代谢:
+      - 细胞的代谢: biology/metabolism/index.md
+      - 酶与 ATP: biology/metabolism/enzymes-atp.md
+      - 细胞呼吸: biology/metabolism/respiration.md
+      - 光合作用: biology/metabolism/photosynthesis.md
+    - 遗传与进化:
+      - 遗传与进化: biology/genetics/index.md
+      - DNA 是主要的遗传物质: biology/genetics/dna-discovery.md
+      - DNA 的结构与复制: biology/genetics/dna.md
+      - 基因的表达: biology/genetics/gene-expression.md
+      - 减数分裂: biology/genetics/meiosis.md
+      - 基因的分离定律: biology/genetics/segregation.md
+      - 基因的自由组合定律: biology/genetics/assortment.md
+      - 伴性遗传与人类遗传病: biology/genetics/sexlinkage.md
+      - 变异与育种: biology/genetics/variation.md
+      - 生物的进化: biology/genetics/evolution.md
+    - 稳态与调节:
+      - 稳态与调节: biology/regulation/index.md
+      - 内环境与稳态: biology/regulation/internal-environment.md
+      - 神经调节: biology/regulation/nervous.md
+      - 体液调节: biology/regulation/humoral.md
+      - 免疫调节: biology/regulation/immune.md
+      - 植物激素调节: biology/regulation/phytohormones.md
+    - 生物与环境:
+      - 生物与环境: biology/ecology/index.md
+      - 种群: biology/ecology/population.md
+      - 群落: biology/ecology/community.md
+      - 生态系统: biology/ecology/ecosystem.md
+      - 生态环境与保护: biology/ecology/environment.md
+    - 生物技术:
+      - 生物技术: biology/biotechnology/index.md
+      - 发酵工程: biology/biotechnology/fermentation.md
+      - 微生物的培养与应用: biology/biotechnology/culture.md
+      - 细胞工程: biology/biotechnology/cell-engineering.md
+      - 基因工程: biology/biotechnology/gene-engineering.md
+      - 胚胎工程: biology/biotechnology/embryo-engineering.md
+
+plugins:
+  - search

@@ -1,0 +1,31 @@
+.mermaid {
+  text-align: center;
+  margin: 1rem 0;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mermaid svg {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Ensure math equations are properly centered */
+.MathJax {
+  text-align: center !important;
+}
+
+/* English/numbers in serif, Chinese stays sans-serif */
+:root {
+  --md-text-font: "Constantia", "Cambria", "Palatino Linotype",
+                  "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+
+/* Math ($$) keeps LaTeX fonts, not affected by the above */
+mjx-container {
+  font-family: MathJax_Main, "MathJax_Main", "Times New Roman", serif;
+}
