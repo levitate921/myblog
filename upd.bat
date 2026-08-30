@@ -23,23 +23,36 @@ if exist upd.cfg (
 )
 if not defined REMOTE goto :firstrun
 
+REM ---- stamp push-test page with current time ----
+for /f %%t in ('powershell -NoProfile -Command "Get-Date -Format 'yyyy-MM-dd HH:mm:ss'"') do set "STAMP=%%t"
+if not defined STAMP (
+    echo [0/7] warning: could not get current time - skip stamping
+    goto :main
+)
+if exist docs\introduction\push-test.md (
+    powershell -NoProfile -Command "$c=[IO.File]::ReadAllText('docs\introduction\push-test.md',[Text.Encoding]::UTF8);if($c -match '\*\*\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}\*\*'){$c=[regex]::Replace($c,'\*\*\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}\*\*','**%STAMP%**');[IO.File]::WriteAllText('docs\introduction\push-test.md',$c,(New-Object Text.UTF8Encoding($false)))}"
+    echo [0/7] push-test timestamp updated
+) else (
+    echo [0/7] push-test.md not found - skip stamping
+)
+
 :main
 REM ---- ensure git repo exists ----
 if not exist .git (
-    echo [1/6] Initializing git repo...
+    echo [1/7] Initializing git repo...
     git init -b %BRANCH% 2>nul
     if errorlevel 1 git init
 ) else (
-    echo [1/6] Git repo OK
+    echo [1/7] Git repo OK
 )
 
 REM ---- local identity (works on any PC, even without global config) ----
-echo [2/6] Setting git identity...
+echo [2/7] Setting git identity...
 git config user.name "%USERNAME%"
 git config user.email "%EMAIL%"
 
 REM ---- remote ----
-echo [3/6] Checking remote...
+echo [3/7] Checking remote...
 git remote get-url origin >nul 2>&1
 if errorlevel 1 (
     git remote add origin "%REMOTE%"
@@ -48,7 +61,7 @@ if errorlevel 1 (
 )
 
 REM ---- commit changes ----
-echo [4/6] Staging changes...
+echo [4/7] Staging changes...
 git add -A
 git diff --cached --quiet
 if errorlevel 1 (
@@ -65,11 +78,11 @@ REM ---- push ----
 REM usage: upd.bat   normal push    |   upd.bat force   force push history rewrite
 set "PUSHF="
 if /i "%~1"=="force" set "PUSHF=--force"
-echo [5/6] Pushing to %REMOTE% ...
+echo [5/7] Pushing to %REMOTE% ...
 git push -u origin %BRANCH% %PUSHF%
 if errorlevel 1 goto :pushfail
 
-echo [6/6] Done.
+echo [6/7] Done.
 echo.
 echo [OK] Pushed to GitHub. Actions will build and deploy automatically.
 echo  Actions       : %REMOTE%/actions
