@@ -62,8 +62,11 @@ REM ---- ensure branch name ----
 git branch -M %BRANCH% 2>nul
 
 REM ---- push ----
+REM usage: upd.bat   normal push    |   upd.bat force   force push history rewrite
+set "PUSHF="
+if /i "%~1"=="force" set "PUSHF=--force"
 echo [5/6] Pushing to %REMOTE% ...
-git push -u origin %BRANCH%
+git push -u origin %BRANCH% %PUSHF%
 if errorlevel 1 goto :pushfail
 
 echo [6/6] Done.
