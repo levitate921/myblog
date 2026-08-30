@@ -30,7 +30,7 @@ if not defined STAMP (
     goto :main
 )
 if exist docs\introduction\push-test.md (
-    powershell -NoProfile -Command "$c=[IO.File]::ReadAllText('docs\introduction\push-test.md',[Text.Encoding]::UTF8);if($c -match '\*\*\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}\*\*'){$c=[regex]::Replace($c,'\*\*\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}\*\*','**%STAMP%**');[IO.File]::WriteAllText('docs\introduction\push-test.md',$c,(New-Object Text.UTF8Encoding($false)))}"
+    powershell -NoProfile -Command "$c=[IO.File]::ReadAllText('docs\introduction\push-test.md',[Text.Encoding]::UTF8);if($c -match '\*\*\d{4}-\d{2}-\d{2}( \d{2}:\d{2}:\d{2})?\*\*'){$c=[regex]::Replace($c,'\*\*\d{4}-\d{2}-\d{2}( \d{2}:\d{2}:\d{2})?\*\*','**%STAMP%**');[IO.File]::WriteAllText('docs\introduction\push-test.md',$c,(New-Object Text.UTF8Encoding($false)))}"
     echo [0/7] push-test timestamp updated
 ) else (
     echo [0/7] push-test.md not found - skip stamping
