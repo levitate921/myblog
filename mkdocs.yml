@@ -126,6 +126,7 @@ nav:
     - 化学基本概念:
       - 化学基本概念: chemistry/fundamentals/index.md
       - 物质的组成、性质和分类: chemistry/fundamentals/classification.md
+      - 分散系和胶体: chemistry/fundamentals/colloid.md
     - 物质结构与元素周期律:
       - 物质结构与元素周期律: chemistry/structure/index.md
       - 物质结构及原子核外电子排布: chemistry/structure/electron-arrangement.md
