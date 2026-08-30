@@ -121,7 +121,67 @@ nav:
       - 暑假翻译60组: english/translation/summerholiday/index.md
     - 作文: english/writing/index.md
   - 物理: physics/index.md
-  - 化学: chemistry/index.md
+  - 化学:
+    - 化学首页: chemistry/index.md
+    - 化学基本概念:
+      - 化学基本概念: chemistry/fundamentals/index.md
+      - 物质的组成、性质和分类: chemistry/fundamentals/classification.md
+    - 物质结构与元素周期律:
+      - 物质结构与元素周期律: chemistry/structure/index.md
+      - 物质结构及原子核外电子排布: chemistry/structure/electron-arrangement.md
+      - 元素周期律及元素周期表: chemistry/structure/periodic-law.md
+      - 化学键: chemistry/structure/chemical-bond.md
+      - 分子结构与性质: chemistry/structure/molecular-structure.md
+      - 晶体结构与性质: chemistry/structure/crystal-structure.md
+    - 化学反应原理:
+      - 化学反应原理: chemistry/reaction-principles/index.md
+      - 化学反应的热效应: chemistry/reaction-principles/thermochemistry.md
+      - 化学反应速率: chemistry/reaction-principles/reaction-rate.md
+      - 化学反应平衡: chemistry/reaction-principles/chemical-equilibrium.md
+      - 化学平衡常数及应用: chemistry/reaction-principles/equilibrium-constant.md
+      - 化学反应速率、平衡图像: chemistry/reaction-principles/equilibrium-graphs.md
+      - 化工生产: chemistry/reaction-principles/chemical-production.md
+    - 水溶液中离子反应与平衡:
+      - 水溶液中离子反应与平衡: chemistry/ionic-equilibrium/index.md
+      - 电离平衡: chemistry/ionic-equilibrium/ionization.md
+      - 水的电离和溶液的酸碱性: chemistry/ionic-equilibrium/water-ionization.md
+      - 离子反应和离子方程式: chemistry/ionic-equilibrium/ionic-reactions.md
+      - 离子共存、离子的检验与推断: chemistry/ionic-equilibrium/ion-testing.md
+      - 盐类水解: chemistry/ionic-equilibrium/hydrolysis.md
+      - 难溶电解质的溶解平衡与应用: chemistry/ionic-equilibrium/solubility-equilibrium.md
+    - 氧化还原反应与电化学:
+      - 氧化还原反应与电化学: chemistry/electrochemistry/index.md
+      - 氧化还原反应: chemistry/electrochemistry/redox-reactions.md
+      - 原电池及化学电源: chemistry/electrochemistry/galvanic-cells.md
+      - 电解池及金属的腐蚀与防护: chemistry/electrochemistry/electrolysis.md
+    - 元素及其化合物:
+      - 元素及其化合物: chemistry/elements/index.md
+      - 卤素及其化合物: chemistry/elements/halogens.md
+      - 硫及其化合物: chemistry/elements/sulfur.md
+      - 氮及其化合物: chemistry/elements/nitrogen.md
+      - 碳、硅及其化合物: chemistry/elements/carbon-silicon.md
+      - 钠及其化合物: chemistry/elements/sodium.md
+      - 铁及其化合物: chemistry/elements/iron.md
+      - 镁、铝、铜及其化合物: chemistry/elements/mg-al-cu.md
+    - 有机化学:
+      - 有机化学: chemistry/organic-chemistry/index.md
+      - 有机化合物的结构特点与研究方法: chemistry/organic-chemistry/organic-structure.md
+      - 烃: chemistry/organic-chemistry/hydrocarbons.md
+      - 卤代烃、醇及酚: chemistry/organic-chemistry/haloalkanes-alcohols-phenols.md
+      - 醛、酮、羧酸及其衍生物: chemistry/organic-chemistry/aldehydes-ketones-acids.md
+      - 生物大分子及合成高分子: chemistry/organic-chemistry/biomolecules-polymers.md
+      - 有机推断与有机合成路线设计: chemistry/organic-chemistry/organic-synthesis.md
+    - 化学实验:
+      - 化学实验: chemistry/experiments/index.md
+      - 化学实验基本知识和技能: chemistry/experiments/basics.md
+      - 物质的分离、提纯和检验: chemistry/experiments/separation-purification.md
+      - 化学综合实验: chemistry/experiments/comprehensive.md
+    - 化学计算与流程:
+      - 化学计算与流程: chemistry/calculations/index.md
+      - 无机化工流程题的解题策略: chemistry/calculations/flow-process.md
+      - 物质的量与气体摩尔体积: chemistry/calculations/mole.md
+      - 物质的量浓度与溶液的配制: chemistry/calculations/concentration.md
+      - 化学计算的常用方法: chemistry/calculations/calculation-methods.md
   - 生物:
     - 生物首页: biology/index.md
     - 细胞生物学:
