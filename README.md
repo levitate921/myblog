@@ -12,6 +12,9 @@ myblog/
 ├── build.bat               # Windows 构建 + 启动脚本（mkdocs build + http server）
 ├── runmkdocs.bat           # Windows 开发辅助脚本（打开命令行，手动执行 mkdocs 命令）
 ├── stop.bat                # 停止端口 8000 上运行的服务
+├── upd.bat                 # 一键推送到 GitHub，触发 Actions 自动构建部署
+├── upd.cfg                 # upd.bat 的便携配置（仓库地址、git 身份等）
+├── .github/workflows/      # GitHub Actions 自动构建部署配置
 ├── README.md
 ├── docs/                   # 源文件（Markdown）
 │   ├── index.md            # 首页
@@ -91,4 +94,8 @@ stop.bat
 
 ## 部署
 
-`site/` 目录为纯静态文件，可直接部署到任意静态托管平台（GitHub Pages、Netlify、Vercel 等）。
+已配置 GitHub Actions：推送到 `main` 分支后自动构建 `site/` 并部署到 GitHub Pages。
+
+- 网站地址：https://levitate921.github.io/myblog/
+- 本地修改文档后，双击 `upd.bat` 即可一键更新（首次运行需在弹出的窗口登录 GitHub）
+- `site/` 为构建产物，已加入 `.gitignore`，仅在云端由 Actions 构建

@@ -1,5 +1,7 @@
 site/
 past/
+opencode_cmd.bat
+Opencode.md
 __pycache__/
 *.py[cod]
 .venv/
