@@ -74,15 +74,34 @@ if errorlevel 1 (
 REM ---- ensure branch name ----
 git branch -M %BRANCH% 2>nul
 
-REM ---- push ----
+REM ---- push (with network retries) ----
 REM usage: upd.bat   normal push    |   upd.bat force   force push history rewrite
 set "PUSHF="
 if /i "%~1"=="force" set "PUSHF=--force"
-echo [5/7] Pushing to %REMOTE% ...
-git push -u origin %BRANCH% %PUSHF%
-if errorlevel 1 goto :pushfail
 
-echo [6/7] Done.
+REM ---- network resilience (local repo config, safe on unstable connections) ----
+echo [5/7] Tuning git for unstable network...
+git config http.version HTTP/1.1
+git config http.postBuffer 524288000
+git config http.lowSpeedLimit 1
+git config http.lowSpeedTime 60
+
+set "RETRIES=5"
+set "ATTEMPT=1"
+:pushretry
+echo [6/7] Pushing to %REMOTE% (attempt %ATTEMPT%/%RETRIES%) ...
+git push -u origin %BRANCH% %PUSHF%
+if not errorlevel 1 goto :pushdone
+
+echo [WARN] Push attempt %ATTEMPT%/%RETRIES% failed - retrying in 5s ...
+timeout /t 5 /nobreak >nul 2>&1
+set /a ATTEMPT+=1
+if %ATTEMPT% LEQ %RETRIES% goto :pushretry
+goto :pushfail
+
+:pushdone
+echo.
+echo [7/7] Done.
 echo.
 echo [OK] Pushed to GitHub. Actions will build and deploy automatically.
 echo  Actions       : %REMOTE%/actions
@@ -93,10 +112,14 @@ exit /b 0
 
 :pushfail
 echo.
-echo [FAIL] Push failed. Common fixes:
-echo   1. Create the repo on GitHub first: https://github.com/new
-echo   2. First time: a GitHub login window will pop up - complete it.
-echo   3. Check the URL in upd.cfg
+echo [FAIL] Push failed after %RETRIES% attempts.
+echo  Possible reasons / fixes:
+echo   1. Network issue (GitHub is unstable on some IPs from mainland China):
+echo      - "Could not connect" / "Timed out"   : connection blocked, retry later or use a proxy/VPN
+echo      - "Connection was reset" / "RPC failed": transfer cut off mid-push, retry usually works
+echo   2. First time: a GitHub login window should have popped up - complete it.
+echo   3. Auth failed  : login window was canceled - just rerun upd.bat
+echo   4. Wrong URL   : check the REMOTE line in upd.cfg
 echo.
 pause
 exit /b 1
