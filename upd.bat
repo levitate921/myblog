@@ -24,7 +24,7 @@ if exist upd.cfg (
 if not defined REMOTE goto :firstrun
 
 REM ---- stamp push-test page with current time ----
-for /f %%t in ('powershell -NoProfile -Command "Get-Date -Format 'yyyy-MM-dd HH:mm:ss'"') do set "STAMP=%%t"
+for /f "delims=" %%t in ('powershell -NoProfile -Command "Get-Date -Format 'yyyy-MM-dd HH:mm:ss'"') do set "STAMP=%%t"
 if not defined STAMP (
     echo [0/7] warning: could not get current time - skip stamping
     goto :main
