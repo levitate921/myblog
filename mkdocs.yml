@@ -89,6 +89,7 @@ nav:
     - 交互功能: introduction/interactive-features/index.md
     - 插入图片: introduction/images/index.md
     - PDF 查看: introduction/pdf-viewer/index.md
+    - 推送测试: introduction/push-test.md
     - 更多目录:
       - 下一级: introduction/more-dir/next/index.md
       - 第一级:
