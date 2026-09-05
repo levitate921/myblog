@@ -114,7 +114,9 @@ nav:
       - JKL 词组: english/vocabulary/jkl-phrases.md
       - M 词组: english/vocabulary/m-phrases.md
       - N 词组: english/vocabulary/n-phrases.md
-    - 语法: english/grammar/index.md
+    - 语法:
+      - 语法首页: english/grammar/index.md
+      - 语法填空知识点: english/grammar/grammar-fill.md
     - 概要: english/summary/index.md
     - 翻译:
       - 简介: english/translation/index.md
