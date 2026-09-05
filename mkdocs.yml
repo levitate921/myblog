@@ -117,9 +117,11 @@ nav:
     - 语法:
       - 语法首页: english/grammar/index.md
       - 语法填空知识点: english/grammar/grammar-fill.md
+      - 情态动词分析: english/grammar/modal-verbs.md
     - 概要: english/summary/index.md
     - 翻译:
       - 简介: english/translation/index.md
+      - A字母翻译练习: english/translation/a-translation.md
       - 暑假翻译60组: english/translation/summerholiday/index.md
     - 作文: english/writing/index.md
   - 物理: physics/index.md
