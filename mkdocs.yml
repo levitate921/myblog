@@ -38,6 +38,7 @@ extra_javascript:
   - javascripts/mathjax/input/tex/extensions/mhchem.js
   - javascripts/mermaid/mermaid.min.js
   - javascripts/mermaid.js
+  - javascripts/answer-reveal.js
 
 extra_css:
   - stylesheets/extra.css
