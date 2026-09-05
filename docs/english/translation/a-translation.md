@@ -38,6 +38,7 @@
 > The situation is to our advantage, so it's time we appealed against the unfair ruling.
 
 - 对...有利 to sb.'s advantage
+- 是时候做 it is high time we did sth.
 - 上诉 appeal against
 - 裁决 ruling
 
