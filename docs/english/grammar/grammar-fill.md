@@ -1,8 +1,8 @@
 <div class="answer-reveal-page"></div>
 
-# 有提示词
+## 有提示词
 
-## 谓语动词
+### 谓语动词
 
 考查**时态**（一般现在/过去/将来、现在/过去完成时等）、**语态**（主动/被动）、**主谓一致**。
 
@@ -12,7 +12,7 @@
 - 句意：这是它的编辑们经常**被**问到的问题之一。
 - 解析：从句 (that) its editors are frequently asked 修饰 questions——问题是被问对象，被动语态 be + done；结合句意分析主动被动。
 
-## 非谓语动词
+### 非谓语动词
 
 考查 to do（目的/将来/固定搭配）、doing（主动/进行/伴随/介词后）、done（被动/完成）。
 
@@ -40,17 +40,17 @@
 - 句意：在公平性讨论的背后，是各个收入水平的父母对孩子未来所怀有的、日益强烈的不安。
 - 解析：本句倒装，主干是 Underneath... is a growing unease；空处与 by parents 构成被动短语，作后置定语修饰 unease（被父母怀有的不安），故用 done。harbor 怀有（某种情感），harbor sth. 有 sth. 的。
 
-## 名词、形容词等
+### 名词、形容词等
 
 名词考察单复数，所有格；形容词考察比较级、最高级。
 
-# 无提示词
+## 无提示词
 
-## 并列连词
+### 并列连词
 
 and, but, or, so, for, yet
 
-## 名词性从句
+### 名词性从句
 
 that, what, who/whom/whose, which, when/where/why/how, whether/if
 
@@ -67,7 +67,7 @@ that, what, who/whom/whose, which, when/where/why/how, whether/if
 - 解析：破折号间是插入的同位说明：what 引导名词性从句（what = the thing that），what is called a corpus 意为"被称为语料库的东西/所谓的语料库"，what 在从句中作主语，前面无需先行词。
 - 不可用 which 的原因：which 只能"点名指代"某个明确名词（database），而此处破折号内要表达的是"所谓的……"称号性内容，恰好是 what 的招牌用法（what is called / what we call）。
 
-## 定语从句
+### 定语从句
 
 who/whom/whose, which, that, where, when, why, as
 
@@ -77,7 +77,7 @@ who/whom/whose, which, that, where, when, why, as
 - 句意：已有许多病例报告：机组人员在一次飞行中就达到了年度辐射上限，并因此患上慢性病。
 - 解析：in which 引导定语从句修饰 cases；介词后关系词用 which（不用 that）。
 
-## 状语从句
+### 状语从句
 
 because, although/though, if, unless, when, while, since, until, so that
 
@@ -87,15 +87,15 @@ because, although/though, if, unless, when, while, since, until, so that
 - 句意：流感新闻一消失，医院里的流感患者也随之清空。
 - 解析：The moment 作连词引导时间状语从句，一……就，相当于 as soon as。
 
-## 介词
+### 介词
 
 固定搭配、语境介词。
 
-## 冠词
+### 冠词
 
 a, an, the
 
-## 助动词，情态动词
+### 助动词，情态动词
 
 - do, does, did
 - can, could, must, should, may, might
@@ -106,7 +106,7 @@ a, an, the
 - 句意：富有的父母依赖作弊来确保大学录取，这可能表明了一种普遍的社会性担忧——担心自己失去地位和收入，而眼下社会流动性正越来越缺乏保障。
 - 解析：主语是动名词短语 Wealthy parents' relying on cheating...（……这件事，单数）；空后 signal 是动词原形，说明空处需情态动词（或 do/does）。语义为"可能表明"（不确定性判断），选 may（也可 might/could，此处优先 may）。
 
-## 代词
+### 代词
 
 - 人称代词 I/me, he/him, she/her, we/us, they/them, it
 - 形容词性物主代词 my, your, his, her, its, our, their
