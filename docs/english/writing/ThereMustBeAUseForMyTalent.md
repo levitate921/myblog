@@ -1,4 +1,4 @@
-# 56. Guided Writing
+# 天生我材必有用
 
 古人云：“天生我材必有用”（There must be a use for my talent.）通过描述你生活中的一件事情，说明人各有所长，无论才能大小都能成为有用的人。（2005 高考作文：谚语类 / 夹叙夹议）
 
@@ -47,7 +47,7 @@
 
 ## 范文一
 
-As the old saying goes, “There must be a use for my talent.” **【名言开篇，快速点题】** Simple yet thought-provoking, this timeless saying reveals the truth that one should never underestimate one’s potential, and even the trivial, ordinary-looking abilities might someday prove significant. My own experience of first aid is exactly a vivid example. **【对比句式 + 名言解读，引入叙事】**
+**As the old saying goes, “There must be a use for my talent.”** **【名言开篇，快速点题】** Simple yet thought-provoking, this timeless saying reveals the truth that one should never underestimate one’s potential, and even the trivial, ordinary-looking abilities might someday prove significant. My own experience of first aid is exactly a vivid example. **【对比句式 + 名言解读，引入叙事】**
 
 I used to learn about first aid in a summer camp. Diagnosing the symptoms and employing corresponding treatments, I excelled in this technique. Yet, the talent never seemed to play its role in my storyless life. **【背景，制造“无用”反差】**
 
@@ -59,17 +59,19 @@ The performance was great, yet I seemed to be the one receiving the most appreci
 
 ## 其他开头
 
-**Opening：** “There must be a use for my talent,” as the old saying goes. It is a gentle reminder that we each possess something of worth, and that our seemingly insignificant abilities may one day find their place. I had often repeated these words to myself, but it was not until a school drama project in junior high that I came to see their true meaning.
+**Opening：** “There must be a use for my talent,” as the old saying goes. **It is a gentle reminder that we each possess something of worth, and that our seemingly insignificant abilities may one day find their place.** I had often repeated these words to myself, but it was not until a school drama project in junior high that I came to see their true meaning.
 
-**Opening：** As an old saying goes, “There must be a use for my talent.” These simple words remind us that everyone is born with unique gifts, and that no ability — however small or ordinary it may seem — is without value. Yet I never truly understood this until an experience in junior high school brought it home. **【名言引用】→【诠释】→【过渡到个人经历】**
+**Opening：** As an old saying goes, “There must be a use for my talent.” **These simple words remind us that everyone is born with unique gifts, and that no ability — however small or ordinary it may seem — is without value.** Yet I never truly understood this until an experience in junior high school brought it home. **【名言引用】→【诠释】→【过渡到个人经历】**
 
 PYW
 
 ## 范文二
 
-As an old saying goes, “There must be a use for my talent.” These simple words carry a profound truth: that each of us is endowed with unique gifts, however modest they may appear, and that no ability is too trivial to matter. Yet it was not until a school drama production in junior high that I truly grasped the weight of this wisdom.
+As an old saying goes, “There must be a use for my talent.” These simple words carry a profound truth: that each of us **is endowed with** unique gifts, however modest they may appear, and that no ability is too trivial to matter. Yet it was not until a school drama production in junior high that I truly grasped the weight of this wisdom.
 
-Our school decided to put on an original drama, and when the script was released, I was immediately drawn to/captivated by the story. I set my heart on the leading role and practiced eagerly / devoted every waking moment to rehearsal. But when auditions came, I found myself up against classmates who were natural performers — (their expressions vivid, their emotions so convincingly conveyed that) I couldn’t help feeling overshadowed. Unsurprisingly, I didn’t get the part. Crestfallen（丧气的）, I retreated to a quiet corner and began sketching the stage design I had envisioned （— more as a small comfort than anything else）.
+Our school decided to put on an original drama, and when the script was released, I was immediately **drawn to/captivated by** the story. I **set my heart on** the leading role and practiced eagerly / **devoted every waking moment to rehearsal**. But when auditions came, I found myself up against classmates who were natural performers — (their expressions vivid, their emotions so convincingly conveyed that) I couldn’t help **feeling overshadowed**. 
+
+Unsurprisingly, I didn’t get the part. Crestfallen（丧气的）, I retreated to a quiet corner and began sketching the stage design I had envisioned （— more as a small comfort than anything else）.
 
 To my astonishment, the teacher in charge happened to pass by and was genuinely taken with my drawings. She asked if I would be interested in taking on the set and costume design. I hesitated at first, but soon I threw myself into it wholeheartedly. Ideas began to surge, one after another, each sparking the next. I poured my energy into every detail: designing sets that captured the mood of each scene, crafting costumes that breathed life into the characters. When the curtain rose, everything came together — the applause, the shining actors, and me backstage, quietly proud.
 
@@ -77,11 +79,11 @@ Looking back, I came to see this experience as a living testament to the old say
 
 ## 范文三
 
-The old Chinese saying, “There must be a use for my talent,” first appeared in a poem by the renowned Tang dynasty poet Li Bai, written during a time of career setback and personal frustration. Yet its wisdom transcends both time and circumstance, speaking to the universal belief that everyone possesses a unique gift waiting to be recognized and realized. This saying resonates deeply with me, not only as a reflection of cultural heritage, but as a guiding principle that has taken shape through my own life experiences.
+The old Chinese saying, “There must be a use for my talent,” first appeared in a poem by the renowned Tang dynasty poet Li Bai, written during a time of career setback and personal frustration. Yet its wisdom transcends both time and circumstance, **speaking to the universal belief that everyone possesses a unique gift waiting to be recognized and realized**. This saying **resonates deeply with me**, not only as a reflection of cultural heritage, but **as a guiding principle** that has taken shape through my own life experiences.
 
 In my childhood, I lived with my grandparents, who were passionate devotees of Peking Opera. They spent most of their leisure time watching performances on television and practiced the art regularly in their daily routine. Gradually, I found myself drawn to this traditional Chinese art form, and my parents eventually enrolled me in a training course. To my surprise, I discovered a natural aptitude for it—I could pick up movements with ease and sing fluently after only a few attempts. So instinctively did I take to the stage that my teacher once remarked I was “born to perform opera.”
 
-However, as I grew older, this talent seemed increasingly irrelevant. Competitions featuring Peking Opera were rare, and my skills offered little advantage in academic pursuits, which inevitably took priority as I advanced through school.
+**However, as I grew older, this talent seemed increasingly irrelevant.** Competitions featuring Peking Opera were rare, and my skills offered little advantage in academic pursuits, which inevitably took priority as I advanced through school.
 
 Yet it was a school activity that unexpectedly reawakened me to the hidden value of this gift. Our class was tasked with staging an episode from a Chinese classic, but we struggled to conceive a striking climax. Summoning up my courage, I offered to perform a Peking Opera segment—and it turned out to be the centerpiece of our show, drawing enthusiastic applause from both classmates and teachers.
 
