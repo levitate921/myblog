@@ -124,7 +124,11 @@ nav:
       - 简介: english/translation/index.md
       - A字母翻译练习: english/translation/a-translation.md
       - 暑假翻译60组: english/translation/summerholiday/index.md
-    - 作文: english/writing/index.md
+      - 2026一模: english/translation/2026practice.md
+      - 2027周测: english/translation/2027weeklytest.md
+    - 作文:
+      - 作文: english/writing/index.md
+      - 天生我材必有用: english/writing/ThereMustBeAUseForMyTalent.md
   - 物理: physics/index.md
   - 化学:
     - 化学首页: chemistry/index.md

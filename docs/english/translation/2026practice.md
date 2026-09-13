@@ -4,7 +4,7 @@
 
 **1.** **坚持**每天锻炼不仅能**增强体质**，还能缓解压力。（relieve）
 
-> **Sticking to** daily exercise can not only **improve physical fitness** but also relieve stress.
+> **Keeping / Sticking to / Persevering in / Persisting in** daily exercise can not only **improve physical fitness** but also relieve stress.
 
 **2.** 每每回想起小时候和外婆度过的快乐时光，他都情不自禁地感到温暖。（Every time）
 
@@ -39,3 +39,45 @@
 **4.** 在**失重的环境**中，吃饭喝水**皆非易事**，但中国人对吃的挚爱让我们的宇航员在空间站里**成功**吃上了烧烤盛宴。（so...that...）
 
 > **In the zero-gravity environment**, even eating and drinking are **no simple tasks**, but the Chinese people's love for food is so strong that our astronauts **have managed to** enjoy a barbecue in the space station.
+
+## 虹⼝一模
+
+**1.** 每逢刮⻛下⾬，乡间的⼩路总是泥泞难**⾏**。(too)
+
+> On rainy and windy days, the country roads are always too muddy to **travel along / walk on**.
+
+**2.** 越是让⼈感到愉悦、获得成就感的事情，我们就越容易反复去做。(The more.. ., the more...)
+
+> The more pleasure and accomplishment something gives us, the more we tend to keep doing it.
+>
+> The more joyful and fulfilled something makes us feel, the more likely we are to do it repeatedly / again and again.
+
+**3.** 随着乒乓球友谊赛的圆满落幕，我们**再次**体会到：⽆论输赢，每个⼈都是胜利者。(regardless)
+
+> **With** the friendly table tennis match **coming** to a successful close / **As** the friendly table tennis match **came** to a successful end, we **once again** realized that everyone is a winner regardless of winning or losing / victory or defeat.
+
+**4.** 年轻⼈**借助**多媒体和直播，**打破了销售的时空限制**，让农产品⾛出乡村，进⼊更⼤的市场。(barrier)
+
+> **By tapping into / By making use of / By means of / With the use of** multimedia and live streaming, young people have **removed the barriers of time and distance in sales / broken down the time-and-space barriers to sales**, helping farm products go beyond the countryside and reach / enter bigger markets.
+
+## 黄浦一模
+
+**1.** 新政策**适⽤于**公司的所有部⻔。(apply)
+
+> The new policy **applies to** all sections / departments of the company.
+
+**2.** 这个在线课程的教学⽅式与线下课程⾮常相似。(way)
+
+> This online course **is given in a way very similar to** that of offline courses.
+>
+> The way (that/in which) this online course is **set up works** pretty much like real classroom classes.
+
+**3.** 旅居海外多年，归来时才明⽩，原来我**⼼⼼念念的地⽅**⼀直在这⾥。(abroad)
+
+> Having lived abroad for many years, I finally realized when I returned / **upon my return** that **this was the place I had always longed for / the place I’d been missing all along was right here / the place I cherished deeply had always been here / this is where my heart has always been.**.
+
+**4.** 这家饭店确实很棒，但对我来说太贵了，所以最后我选择了⼀家**名不⻅经传**但**性价⽐**更⾼的饭店。(as)
+
+> The restaurant was indeed excellent, but as it was too expensive for me, I finally chose an **unknown** one with better **cost-effective**.
+> 
+> Great as the restaurant was, I ended up picking an **obscure/little-known** yet more **cost-effective** one.
