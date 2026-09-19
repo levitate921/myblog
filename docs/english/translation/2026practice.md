@@ -118,7 +118,7 @@
 
 > People have become accustomed / used to research**ing** travel destinations via / through social media videos, which provide **practical insights into** their independent travel and help them feel more confident about **exploring** unfamiliar places.
 
-## 静安
+## 静安一模
 
 **1.** 别把那个花瓶放在书架最上⾯，它可能会掉下来。(vase)
 
