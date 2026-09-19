@@ -81,3 +81,59 @@
 > The restaurant was indeed excellent, but as it was too expensive for me, I finally chose an **unknown** one with better **cost-effective**.
 > 
 > Great as the restaurant was, I ended up picking an **obscure/little-known** yet more **cost-effective** one.
+
+## 嘉定一模
+
+**1.** 一个个小型美术馆在上海的社区中悄然兴起了。（emerge）
+
+> Small art galleries are quetly emerging in **communities** across Shanghai one after another.
+
+**2.** 每天多喝一瓶含糖饮料，心脏病的风险可能增加三成。（may）
+
+> Drinking one **additional** bottle of sugary drink every day may increase the risk of heart disease **by thirty percent**.
+
+**3.** 汉字并非简单的符号，而是图像的组合，能让读者联想到自然万物。（Instead of）
+
+> Instead of being single symbols, Chinese characters are a combination of images, **reminding readers of** everything in nature.
+
+**4.** 这座主题乐园中的 24 口钟均未显示正确时间，让游客感到时间停滞，因而沉醉于游览体验中。（so that）
+
+> None of the 24 clocks in the **theme park** show the correct time, enabling tourists to feel that **time stands still**, so that they are fully absorbed in the visiting experience.
+
+## 金山一模
+
+**1.** 每当他⾼兴的时候，就会⼿舞⾜蹈。(whenever)
+
+> Whenever he feels happy / delighted / **is in a good mood**, he can’t help waving his hands and jumping for joy / he dances with excitement.
+
+**2.** 如果这些数据站得住脚，它将帮助我们认清正在调查的问题。(light)
+
+> If the data **holds water / is valid / holds up**, it will **throw / shed / cast light on** the problem / issue we are investigating / under investigation / being investigated.
+
+**3.** 劳动实践不仅能让我们体会劳动价值，还能培养⼯匠精神，从⽽助⼒个⼈⻓远发展。(not only)
+
+> Labor practice not only helps us understand / realize the value of working / labour but also **develops / cultivates craftsman’s spirit**, (thus) supporting to / contributing to / boosting our long-term personal **growth**.
+
+**4.** ⼈们习惯了通过社交媒体上的视频了解⽬的地，这类视频能为⾃主出⾏提供实⽤参考，让他们更有信⼼地奔赴陌⽣之地。(research)
+
+> People have become accustomed / used to research**ing** travel destinations via / through social media videos, which provide **practical insights into** their independent travel and help them feel more confident about **exploring** unfamiliar places.
+
+## 静安
+
+**1.** 别把那个花瓶放在书架最上⾯，它可能会掉下来。(vase)
+
+> Don’t put the vase on (the) top of the bookshelf or it might / may **fall down / off**.
+>
+> Don’t put the vase on (the) top of the bookshelf in case it falls off / for fear that it (should) fall off.
+
+**2.** 冬⽇清晨，没什么⽐喝上⼀杯热⽓腾腾的⾖浆更美妙的了。(than)
+
+> On a winter morning, nothing is more wonderful / fantastic / fascinating / delightful than drinking a cup of steaming / hot **soy(bean) milk**.
+
+**3.** 这位年轻的画家凭借细腻的笔触，迅速获得业界⻘睐，订单纷⾄沓来。（favor）
+
+> The young painter quickly **won** / gained / found favor in the industry with / due to his **delicate brushstrokes** and orders poured in / kept **pouring in**.
+
+**4.** 虽然这座矗⽴于市中⼼的纪念碑形制朴素，但它作为历史⻅证，始终塑造着我们的⺠族精神，激励着后⼈。(Though)
+
+> Though the monument / memorial standing / located / situated / lying in / at the city center is simple / plain in form / shape /design, as a witness to history / as a historical witness, it has always shaped / cultivated our national spirit(s) and inspired / motivated / encouraged future generations / our **offspring** / **descendants**.
