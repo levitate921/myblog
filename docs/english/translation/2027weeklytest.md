@@ -57,6 +57,10 @@ children's eyes.
 
 > It is widely believed that traditional media will be ruthlessly **left behind by the times** if they fail to transform **promptly** amid the global wave of digitization.
 
+**4.** 上周⼆，我在⼀家⼆⼿书店淘到了⼀本漫画书，虽略显陈旧，但插图⽣动、⽂字清晰，堪称物超所值。 (worth)
+
+> Last Tuesday, I picked up / found a comic book / a comic at / in a second-hand bookstore; though it was slightly worn, its vivid / lively illustrations and clear text made it **well worth the price**.
+
 ## 2026届周测2
 
 **1.** 昨晚，数⼗名嫌疑⼈**接受了**保安⼈员的搜查。(submit)
