@@ -1,6 +1,7 @@
-site_name: site
-site_description: A learning blog for high school subjects.
-site_author: 50cria
+site_name: whklearning
+site_description: 高中六科学习笔记（语文 / 数学 / 英语 / 物理 / 化学 / 生物）
+site_url: https://levitate921.github.io/myblog/
+site_author: levitate921
 
 theme:
   name: material
@@ -29,9 +30,6 @@ theme:
     - content.tooltips
     - content.code.select
 
-  include_search_page: false
-  search_index_only: false
-
 extra_javascript:
   - javascripts/mathjax.js
   - javascripts/mathjax/tex-mml-chtml.js
@@ -51,7 +49,6 @@ markdown_extensions:
       anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.details
@@ -75,9 +72,6 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
-
-  - pymdownx.arithmatex:
-      generic: true
 
 nav:
   - 简介:
@@ -122,11 +116,11 @@ nav:
       - 情态动词分析: english/grammar/modal-verbs.md
     - 概要: english/summary/index.md
     - 翻译:
-      - 简介: english/translation/index.md
+      - 翻译: english/translation/index.md
       - A字母翻译练习: english/translation/a-translation.md
       - B字母翻译练习: english/translation/b-translation.md
       - C字母翻译练习: english/translation/c-translation.md
-      - 暑假翻译60组: english/translation/summerholiday/index.md
+      - 暑假翻译32组: english/translation/summerholiday/index.md
       - 2026一模: english/translation/2026practice.md
       - 2027周测: english/translation/2027weeklytest.md
     - 作文:

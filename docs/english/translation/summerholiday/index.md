@@ -1,4 +1,4 @@
-# 暑假翻译60组
+# 暑假翻译32组
 
 !!! note "1A"
 
@@ -58,7 +58,7 @@
     
     > **As we all know / As is known to all**, it is difficult to persuade **a heavy smoker** to **quit smoking** / into quitting smoking.
     >
-    > **persuade sb. do to/into doing**
+    > **persuade sb. to do sth. / persuade sb. into doing sth.**
     
     **2.** 我们明天能否外出踏青得视天气情况而定。（depend on）
     
@@ -130,7 +130,7 @@
     
     > Don't you think it's better to **take all the possible consequences into consideration** before making the decision?
 
-    **3.** 第一次和我父母**去度假**时，那里**无以伦比的**美景给我留下了深刻的印象。（The first time)
+    **3.** 第一次和我父母**去度假**时，那里**无与伦比的**美景给我留下了深刻的印象。（The first time）
 
     > The first time I **went on holiday** with my parents, I was deeply impressed by the **unparalleled** scenery there.
     
@@ -150,7 +150,7 @@
     
     > A **newly-issued** law made it illegal for anyone to hunt in **the wildlife reserves**.
 
-    **3.** 一些商人贪婪的**本性**和社会责任感的缺乏**最終**会伤害他们自己。（end up）
+    **3.** 一些商人贪婪的**本性**和社会责任感的缺乏**最终**会伤害他们自己。（end up）
 
     > Some businessmen's greedy **nature** and lack of social responsibility will **end up hurting** themselves.
     
@@ -202,7 +202,7 @@
     
     **4.** 这些小伙子们**有很多共同点**，比如都喜爱看漫画，喜爱上网，甚至还喜欢在冬天滑雪。（fond）
     
-    > These young fellows **have a lot in common**, for example, they're all fond of reading comics, surfing the Internet, and what's more, skiing in winter.
+    > These young fellows **have a lot in common**; for example, they're all fond of reading comics, surfing the Internet, and what's more, skiing in winter.
 
 !!! note "5B"
 
@@ -240,7 +240,7 @@
     
     > She has been busy with her work since she graduated, and rarely contacts her former classmates.
 
-    **3.** 经过几次面试后，这个雄心勤物的年轻音乐家终于找到了**一份薪水丰厚的工作**。(find)
+    **3.** 经过几次面试后，这个雄心勃勃的年轻音乐家终于找到了**一份薪水丰厚的工作**。(find)
 
     > After / Through several interviews, this ambitious young musician finally found **a well-paid job** / a job with **a high salary**.
     
@@ -348,7 +348,7 @@
     
     **2.** 学校禁止学生在寝室里使用诸如**电炉**、取暖器、微波炉等电器设备。（ban）
     
-    > The chool bans the students from using any electrical appliances such as **electric stoves**, heaters or microwave ovens in the dormitory.
+    > The school bans the students from using any electrical appliances such as **electric stoves**, heaters or microwave ovens in the dormitory.
 
     **3.** 市民**可以**在寒暑假使用这个学校的各类**体育设施**。（access）
 
@@ -364,13 +364,13 @@
     
     > Jane **asked for sick leave** yesterday, and I want to help her **make up her missed lessons** today.
     
-    **2.** 这段**30分钟的视频**传到网上只有两个小时，已有上于人浏览过。（post）
+    **2.** 这段**30分钟的视频**传到网上只有两个小时，已有上万人浏览过。（post）
     
     > Only two hours after the **30-minute video** was posted on the Internet, thousands of people had viewed it.
 
     **3.** 只有**坚持**每天多听多读，你的英语成绩才能**在不久的将来**赶上你的同学。（Only）
 
-    > Only by **persisting in** more listening and reading every day, will your English performance catch up with that of your classmates' **in the near future**.
+    > Only by **persisting in** more listening and reading every day, will your English performance catch up with that of your classmates **in the near future**.
     >
     > Only + 主语 → 不倒装；Only + 状语（by… / when… / then / here…）→ 倒装
     >
@@ -449,7 +449,7 @@
 
     **1.** 不用**麻烦**开车送我回家，我可以乘公交车。（bother）
     
-    > Don't **bother driving** me home, and I can take a bus.
+    > Don't **bother driving** me home; I can take a bus.
     
     **2.** 他刚**上任**，公司里就出现了很多新的问题。（arise）
     
@@ -479,7 +479,7 @@
     >
     > of few words 经典表达
 
-    **3.** 尽管他未能贏得比赛，但是他在比赛中的表现**获得了人们的认可**。（recognize）
+    **3.** 尽管他未能赢得比赛，但是他在比赛中的表现**获得了人们的认可**。（recognize）
 
     > Though he failed to win the contest, his performance in the contest **was recognized by** people.
     
@@ -555,7 +555,7 @@
 
     **3.** 永远不要把问题拖到难以理解和无法掌握的地步。（put off）
 
-    > Never put off a problem **until it becomes too difficult to understand and master it**.
+    > Never put off a problem **until it becomes too difficult to understand and master**.
     
     **4.** 他总是**独立行事**，也从不**助人为乐**，这使他在同学中没有人缘。（popular）
     
@@ -609,7 +609,7 @@
     
     > Some people think it natural for middle school students to go abroad for further studies.
     
-    **2.** 由于提前完成任务，研究小組得到政府的**嘉奖**。（reward）
+    **2.** 由于提前完成任务，研究小组得到政府的**嘉奖**。（reward）
     
     > The research team **was rewarded by** the government because they finished the task ahead of time.
 
@@ -637,7 +637,7 @@
 
     > The newly-built stadium cover**s** 5000 square meters, which is the largest building in our school **so far**.
     
-    **4.** **到上个月为止**，这位女作家已经出版了300车本儿童图书。她的图书之所以畅销是因为她理解孩子怎么想，想要什么。（reason）
+    **4.** **到上个月为止**，这位女作家已经出版了300本儿童图书。她的图书之所以畅销是因为她理解孩子怎么想，想要什么。（reason）
     
     > **By last month**, the female writer had published 300 children's books. The reason why her books sell well is that she understands how children think and what they want.
 

@@ -44,7 +44,7 @@
 | 40 | 很可能/大概是 | **chances are that...** |
 | 41 | 冒险 | **take the chance/a chance** |
 | 42 | 情况好转/恶化了 | **change for the better/worse** |
-| 43 | 理次发多少钱 | **How much do you charge for a haircut?** |
+| 43 | 理一次发多少钱 | **How much do you charge for a haircut?** |
 | 44 | 指控某人盗窃 | **charge sb with theft** |
 | 45 | 充电 | **charge a battery** |
 | 46 | 向敌人发起冲锋 | **charge at the enemy** |
@@ -84,7 +84,7 @@
 | 80 | 命令某人做某事（虚拟语气） | **command that sb should do sth** |
 | 81 | 评论 | **comment on sth / make comments on sth** |
 | 82 | 致力于教学 | **(sb) be committed to teaching** |
-| 83 | 有很多共同点 | **have a lot/nothing in common** |
+| 83 | 有很多共同点 | **have a lot/much in common** |
 | 84 | 常识 | **common sense** |
 | 85 | 和某人交流 | **communicate with sb** |
 | 86 | 把...传递/传达 | **communicate the ideas/sth to sb** |

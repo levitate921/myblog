@@ -4,8 +4,8 @@
 | --- | --- | --- |
 | 1 | 在某人不在时 | **in the absence of sb** |
 | 2 | 海内外人士 | **people at home and abroad** |
-| 3 | 聚精神/全神贯注做某事 | **(sb) be absorbed in doing sth** |
-| 4 | ...能解释为何观众少 | **sth account for the small audience** |
+| 3 | 聚精会神/全神贯注做某事 | **(sb) be absorbed in doing sth** |
+| 4 | ...能解释为何观众少 | **sth accounts for the small audience** |
 | 5 | 占人口 50% | **account for 50% of the population** |
 | 6 | 由于 | **on account of** |
 | 7 | 绝不 | **on no account** |
@@ -84,7 +84,7 @@
 | 80 | 使某人清醒 | **keep sb awake** |
 | 81 | 给某人颁奖 | **award sb sth / award sth to sb** |
 | 82 | 奥斯卡奖 | **the Academy/Oscar Award(s)** |
-| 83 | 颁奖典礼 | **an awarding ceremony** |
+| 83 | 颁奖典礼 | **an award ceremony / a prize-giving ceremony** |
 | 84 | 意识到 | **be aware of sth / be aware that...** |
 | 85 | 提高环境意识 | **raise one's environmental awareness** |
 | 86 | 采纳计划/建议 | **adopt a plan/one's advice** |

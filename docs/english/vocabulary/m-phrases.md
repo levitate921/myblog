@@ -37,14 +37,14 @@
 | 33 | 本打算做某事 | **had meant to do** |
 | 34 | (某物)旨在 | **sth be meant to do** |
 | 35 | 我说话算数/当真的。 | **I mean what I say.** |
-| 36 | 什么意思？ | **What do you mean by doing sth?** |
+| 36 | 什么意思？ | **What do you mean?** |
 | 37 | 通过...手段 | **by means of sth** |
 | 38 | 决不/根本不 | **by no means** |
 | 39 | 无论如何/当然可以 | **by all means** |
 | 40 | 交通工具 | **means (单复同形) of transportation** |
 | 41 | 达到目的的手段 | **a means to an end** |
 | 42 | 量入为出/入不敷出 | **live within/beyond one's means** |
-| 43 | 尺寸为3*2米 | **The table measures 3 meters by 2.** |
+| 43 | 尺寸为3*2米 | **The table measures 3 meters by 2 meters.** |
 | 44 | 医务工作者 | **medical workers/staff** |
 | 45 | 医疗 | **medical care** |
 | 46 | 记忆犹新 | **sth be still fresh in my memory** |
@@ -52,7 +52,7 @@
 | 48 | 为纪念某人 | **in memory of sb** |
 | 49 | 对...记忆力好/差 | **have a good/poor memory for (names, etc.)** |
 | 50 | 树立纪念碑 | **set up a memorial/monument** |
-| 51 | 亡羊补牢，犹未晚矣。 | **It is never too late to mend.** |
+| 51 | 亡羊补牢，犹未为晚。 | **It is never too late to mend.** |
 | 52 | 康复，好转 | **on the mend** |
 | 53 | 一提到... | **at the mention of** |
 | 54 | 值得一提的是 | **What is worth mentioning/noting is that...** |
@@ -60,7 +60,7 @@
 | 56 | 稀有金属 | **rare metals** |
 | 57 | 任凭...的摆布 | **be at the mercy of sth/sb** |
 | 58 | 毫不留情地 | **without mercy** |
-| 59 | 对某人表同情 | **show mercy to sb** |
+| 59 | 对某人表同情 | **show sympathy for sb** |
 | 60 | 给某人留言 | **leave a message for sb** |
 | 61 | 记下留言 | **take a message** |
 | 62 | 你介意我做某事吗？ | **Would you mind my doing? = Do you mind if I do sth?** |

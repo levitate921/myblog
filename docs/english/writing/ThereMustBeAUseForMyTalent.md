@@ -69,7 +69,7 @@ PYW
 
 As an old saying goes, “There must be a use for my talent.” These simple words carry a profound truth: that each of us **is endowed with** unique gifts, however modest they may appear, and that no ability is too trivial to matter. Yet it was not until a school drama production in junior high that I truly grasped the weight of this wisdom.
 
-Our school decided to put on an original drama, and when the script was released, I was immediately **drawn to/captivated by** the story. I **set my heart on** the leading role and practiced eagerly / **devoted every waking moment to rehearsal**. But when auditions came, I found myself up against classmates who were natural performers — (their expressions vivid, their emotions so convincingly conveyed that) I couldn’t help **feeling overshadowed**. 
+Our school decided to put on an original drama, and when the script was released, I was immediately **drawn to/captivated by** the story. I **set my heart on** the leading role and practiced eagerly / **devoted every waking moment to rehearsal**. But when auditions came, I found myself up against classmates who were natural performers — their expressions vivid, their emotions so convincingly conveyed that I couldn’t help **feeling overshadowed**. 
 
 Unsurprisingly, I didn’t get the part. Crestfallen（丧气的）, I retreated to a quiet corner and began sketching the stage design I had envisioned （— more as a small comfort than anything else）.
 

@@ -87,7 +87,7 @@
 | 83 | 与自然和睦共处 | **co-exist with nature in harmony** |
 | 84 | 和谐社会 | **a harmonious society** |
 | 85 | 成为头条新闻 | **hit/make the headlines** |
-| 86 | 牢记在心 | **learn sth by heart** |
+| 86 | 牢记在心 | **bear/keep sth in mind** |
 | 87 | 全心全意地 | **heart and soul** |
 | 88 | 失去信心 | **lose heart** |
 | 89 | 倾心于某人 | **lose one's heart to** |

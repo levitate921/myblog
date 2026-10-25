@@ -2,7 +2,7 @@
 
 **1.** 盗用知识产权、贩卖公司机密让他失去了工作。(cost)
 
-> Stealing **intellectual property** and selling company's secrets cost him his job.
+> Stealing **intellectual property** and selling the company's secrets cost him his job.
 
 **2.** 了解一门语言的前提是熟练掌握至少两门语言。（command）
 
@@ -46,11 +46,11 @@
 
 **12.** 《詹森艺术史》这本书我读得津津有味，是因为其中涉及到的艺术品，都是我去年夏天在意大利亲眼见过的。（concern）
 
-> The reason why I **take delight in reading** Janson's History of Art is that I saw all the artworks **concerned** with my own eyes last summer in Italy.
+> The reason why I **take delight in reading** Janson's History of Art is that, last summer in Italy, I saw with my own eyes all the artworks **concerned**.
 
 **13.** 一味限制电子书的发行毫无用处，导致上百家实体书店关门的原因其实是人们碎片化的阅读习惯。（claim）
 
-> It's no use limiting the **release** of electronic books, because it is people's fragmented reading habit that has **claimed** hundreds of physical bookshops.
+> It's no use limiting the **release** of electronic books, because it is people's fragmented reading habit that has **claimed** over a hundred physical bookshops.
 >
 > claim 在这里的用法（意为“夺走、导致丧失”，如 The earthquake claimed 100 lives）
 

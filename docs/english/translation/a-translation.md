@@ -75,7 +75,7 @@
 
 **10.** 距离我们家只有一箭之遥的建筑工地复工了，我别无选择，只能买个降噪耳机。（alternative）
 
-> The building site within a stone's throw of our home returned to work, so I have no alternative but to buy noise-cancelling earphones.
+> Work on the building site within a stone's throw of our home resumed, so I have no alternative but to buy noise-cancelling earphones.
 
 - 一箭之遥 within a stone's throw
 - 复工 sth. returned to work
@@ -120,7 +120,7 @@
 
 > The manager arranged for me to attend the meeting and address it because I had an advantage over others.
 
-- 安排 arrange for sb. to do sh.
+- 安排 arrange for sb. to do sth.
 - 在会上发表演讲 address the meeting（没有 address a speech）
 - 比...有优势 have an advantage over sb.
 
@@ -135,7 +135,7 @@
 
 **17.** 世卫组织呼吁人们保持理智，不可以以地名命名疾病，或对中国和武汉污名化。（appeal）
 
-The WHO appealed to people to stay rational, and not to name diseases after places or stigmatize China and Wuhan.
+> The WHO appealed to people to stay rational, and not to name diseases after places or stigmatize China and Wuhan.
 
 > 保持理智 stay rational
 > 以地名命名 name sth. after places
@@ -159,7 +159,7 @@ The WHO appealed to people to stay rational, and not to name diseases after plac
 
 **20.** 这项新政和我们长久以来的理念不符，新政过分强调了个人利益，对弱势群体熟视无睹。（accord）
 
-> The new policy is not in accord with our long-held beliefs, which lays too much emphasis on personal interests, turning a blind eye to the disadvantaged groups.
+> The new policy is not in accord with our long-held beliefs, for it lays too much emphasis on personal interests, turning a blind eye to the disadvantaged groups.
 
 - 与...一致 be in accord / line / accordance with
 - 弱势群体 the disadvantaged groups

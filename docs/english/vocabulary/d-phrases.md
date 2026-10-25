@@ -18,7 +18,7 @@
 | 14 | 在减少 | **on the decline/decrease** |
 | 15 | 维护权利/卫冕 | **defend the rights (championship)** |
 | 16 | 在某种程度上 | **to some/a certain degree** |
-| 17 | 博士/硕士学位 | **a doctor's / masters degree** |
+| 17 | 博士/硕士学位 | **a doctor's/master's degree** |
 | 18 | 外卖服务 | **food delivery service** |
 | 19 | 满足要求 | **meet/satisfy one's demand** |
 | 20 | 非常抢手 | **in huge demand** |
@@ -53,7 +53,7 @@
 | 49 | 弱势群体 | **the disadvantaged** |
 | 50 | 不赞成/反对 | **disapprove of sth** |
 | 51 | 灾区 | **a disaster-stricken area** |
-| 52 | 保持纪律 | **keep/maintains discipline** |
+| 52 | 保持纪律 | **keep/maintain discipline** |
 | 53 | 使某人气馁不做某事 | **discourage sb from doing** |
 | 54 | 打消这个念头 | **dismiss the idea of doing sth** |
 | 55 | 开除雇员 | **dismiss /fire /lay off an employee** |
@@ -80,7 +80,7 @@
 | 76 | 得出结论 | **draw a/the conclusion** |
 | 77 | 吸引某人注意 | **draw one's attention** |
 | 78 | 从银行取钱 | **draw money from the bank** |
-| 79 | 抽签 | **draw a lot** |
+| 79 | 抽签 | **draw lots** |
 | 80 | 梦想做某事 | **dream of doing sth** |
 | 81 | 盛装打扮 | **dress up** |
 | 82 | 穿着...衣服 | **(sb) be dressed in sth** |

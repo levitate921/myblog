@@ -18,7 +18,7 @@
 | 14 | 打得...鼻青脸肿 | **beat sb black and blue** |
 | 15 | 不走寻常路 | **get off the beaten track/path** |
 | 16 | 绕圈子 | **beat around the bush** |
-| 17 | 绞尽脑汁 | **beat one's brain** |
+| 17 | 绞尽脑汁 | **beat one's brains** |
 | 18 | 我的心跳得很快。 | **My heart is beating fast.** |
 | 19 | 铺床 | **make the/one's bed** |
 | 20 | 没过多久就... | **It was not long before sb did sth.** |
@@ -45,7 +45,7 @@
 | 41 | 处于最佳状态 | **at one's best** |
 | 42 | 尽全力 | **do one's best** |
 | 43 | 充分利用好有限的时间 | **make the best/most of limited time** |
-| 44 | 亡羊补牢，犹时未晚。 | **Better late than never.** |
+| 44 | 亡羊补牢，犹未为晚。 | **Better late than never.** |
 | 45 | 畅销书 | **a best-seller** |
 | 46 | A和B都不好 | **A is no better than B.** |
 | 47 | 更富裕 | **be better off** |
@@ -82,13 +82,13 @@
 | 78 | 懒得做某事 | **don't bother to do** |
 | 79 | 打心底 | **from the bottom of one's heart** |
 | 80 | 动脑子 | **use one's brain** |
-| 81 | 绞尽脑汁 | **beat one's brain** |
+| 81 | 绞尽脑汁 | **rack one's brains** |
 | 82 | 非法闯入房子 | **break into a house** |
 | 83 | 忽然大哭/大笑 | **break/burst into tears/laughter / burst out crying/laughing** |
 | 84 | 出故障 | **(The car) break down.** |
 | 85 | 分解... | **break sth down into** |
 | 86 | 爆发 | **break out / outbreak n.** |
-| 87 | 突破对方的防线 | **break through the oppositions defense** |
+| 87 | 突破对方的防线 | **break through the opponent's defence / defense** |
 | 88 | 破裂/破碎 | **(Their marriage) break up.** |
 | 89 | 摆脱，脱离 | **break away from** |
 | 90 | 打破沉寂，破冰 | **break the silence/ice** |

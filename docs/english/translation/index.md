@@ -1,6 +1,6 @@
 # 翻译
 
-**4.** 上周⼆，我在⼀家⼆⼿书店淘到了⼀本漫画书，虽略显陈旧，但插图⽣动、⽂字清晰，堪称物超所值。 (worth)
+**4.** 上周二，我在一家二手书店淘到了一本漫画书，虽略显陈旧，但插图生动、文字清晰，堪称物超所值。 (worth)
 
 > Last Tuesday, I picked up / found a comic book / a comic at / in a second-hand bookstore; though it was slightly worn, its vivid / lively illustrations and clear text made it **well worth the price**.
 
@@ -22,7 +22,7 @@
 
 **4.** 受深厚的农耕文化与生态旅游资源驱动，这座偏远村庄如今已蜕变为宜居宜游的美丽乡村。（fuel）
 
-> Fueled by / Having been fueled by / Fuelled by its rich farming culture and **eco-tourism** resources, this remote / distant / faraway / isolated village has now (been) transformed into a **livable / habitable** and tourist-friendly beautiful country / village.
+> Fueled by / Having been fueled by / Fuelled by its rich farming culture and **eco-tourism** resources, this remote / distant / faraway / isolated village has now (been) transformed into a **livable / habitable**, beautiful and tourist-friendly village / countryside.
 
 ## 浦东一模
 

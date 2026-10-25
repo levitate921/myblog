@@ -10,7 +10,7 @@
 
 **3.** 我难以置信那名人气网红去年双十一卖出了 15000 支口红。（Barely）
 
-> **Barely can I believe that** the popular online celebrity sold 15000 **lipsticks** on the previous Double Eleven Day.
+> **Barely can I believe that** the popular online celebrity sold 15000 **lipsticks** on Double Eleven last year.
 
 **4.** 请记住，如果你对交规视而不见，将会被禁止驾车一年。（bear, ban）
 
@@ -62,7 +62,7 @@
 
 **14.** 中国拥有富有朝气的年轻一代，他们愿意承担缩小中国和发达国家间距离的重任。（boast）
 
-> China boasts a vibrant / vigorous generation, who **are** willing to bear the burden of narrowing the gap between China and developed countries.
+> China boasts a vibrant / vigorous young generation, who **are** willing to bear the burden of narrowing the gap between China and developed countries.
 
 **15.** 政府对捕猎重拳出击，这样可以将对环境的危害降到最少，而且可以重振当地的生物多样性。（blow）
 
@@ -84,4 +84,4 @@
 
 **19.** 白宫将公布大刀阔斧的方案与经济危机作斗争，包括为某些行业提供财政援助、减税和针对性救济。（battle）
 
-> The White House will **reveal / release sweeping / bold proposals / plans** to battle against the financial crisis, including financial support, **tax cuts** and targeted relief for certain industries.
+> The White House will **reveal / release sweeping / bold proposals / plans** to battle against the economic crisis, including financial support, **tax cuts** and targeted relief for certain industries.

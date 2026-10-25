@@ -38,7 +38,7 @@
 
 - 答案：**harbored**
 - 句意：在公平性讨论的背后，是各个收入水平的父母对孩子未来所怀有的、日益强烈的不安。
-- 解析：本句倒装，主干是 Underneath... is a growing unease；空处与 by parents 构成被动短语，作后置定语修饰 unease（被父母怀有的不安），故用 done。harbor 怀有（某种情感），harbor sth. 有 sth. 的。
+- 解析：本句倒装，主干是 Underneath... is a growing unease；空处与 by parents 构成被动短语，作后置定语修饰 unease（被父母怀有的不安），故用 done。harbor 怀有（某种情感），harbor sth. 表示“心怀／抱有某事”。
 
 ### 名词、形容词等
 
@@ -54,7 +54,7 @@ and, but, or, so, for, yet
 
 that, what, who/whom/whose, which, when/where/why/how, whether/if
 
-**The idea offended many ____ wealth can buy seats to an elite education.**
+**The idea ____ wealth can buy seats to an elite education offended many.**
 
 - 答案：**that**
 - 句意："财富可以买到精英教育席位"这一观念，让许多人大为不快。
@@ -104,7 +104,7 @@ a, an, the
 
 - 答案：**may**
 - 句意：富有的父母依赖作弊来确保大学录取，这可能表明了一种普遍的社会性担忧——担心自己失去地位和收入，而眼下社会流动性正越来越缺乏保障。
-- 解析：主语是动名词短语 Wealthy parents' relying on cheating...（……这件事，单数）；空后 signal 是动词原形，说明空处需情态动词（或 do/does）。语义为"可能表明"（不确定性判断），选 may（也可 might/could，此处优先 may）。
+- 解析：主语是动名词短语 Wealthy parents' relying on cheating...（……这件事，单数）；空后 signal 是动词原形，说明空处需情态动词。语义为"可能表明"（不确定性判断），选 may（也可 might/could，此处优先 may）。
 
 ### 代词
 
@@ -113,7 +113,7 @@ a, an, the
 - 名词性物主代词 mine, yours, hers, ours, theirs
 - 反身代词 myself, yourself, himself/herself, themselves, ourselves
 - it 类 it（指事/非人、形式主语）、that/those（指代上文）
-- 泛指人/物 some, any, none, each, either, neither, both, all, many, few, more, most, one, another, other, others, much, few
+- 泛指人/物 some, any, none, each, either, neither, both, all, many, few, more, most, one, another, other, others, much, little
 - -thing/-body something/anything/nothing/everything；somebody/anybody/nobody/everybody
 
 **Leading scientists and public health officials have the capability to keep us much safer from flu. ____ need your quick and decisive support to succeed.**

@@ -40,43 +40,43 @@
 
 > **In the zero-gravity environment**, even eating and drinking are **no simple tasks**, but the Chinese people's love for food is so strong that our astronauts **have managed to** enjoy a barbecue in the space station.
 
-## 虹⼝一模
+## 虹口一模
 
-**1.** 每逢刮⻛下⾬，乡间的⼩路总是泥泞难**⾏**。(too)
+**1.** 每逢刮风下雨，乡间的小路总是泥泞难**行**。(too)
 
 > On rainy and windy days, the country roads are always too muddy to **travel along / walk on**.
 
-**2.** 越是让⼈感到愉悦、获得成就感的事情，我们就越容易反复去做。(The more.. ., the more...)
+**2.** 越是让人感到愉悦、获得成就感的事情，我们就越容易反复去做。(The more.. ., the more...)
 
 > The more pleasure and accomplishment something gives us, the more we tend to keep doing it.
 >
 > The more joyful and fulfilled something makes us feel, the more likely we are to do it repeatedly / again and again.
 
-**3.** 随着乒乓球友谊赛的圆满落幕，我们**再次**体会到：⽆论输赢，每个⼈都是胜利者。(regardless)
+**3.** 随着乒乓球友谊赛的圆满落幕，我们**再次**体会到：无论输赢，每个人都是胜利者。(regardless)
 
 > **With** the friendly table tennis match **coming** to a successful close / **As** the friendly table tennis match **came** to a successful end, we **once again** realized that everyone is a winner regardless of winning or losing / victory or defeat.
 
-**4.** 年轻⼈**借助**多媒体和直播，**打破了销售的时空限制**，让农产品⾛出乡村，进⼊更⼤的市场。(barrier)
+**4.** 年轻人**借助**多媒体和直播，**打破了销售的时空限制**，让农产品走出乡村，进入更大的市场。(barrier)
 
 > **By tapping into / By making use of / By means of / With the use of** multimedia and live streaming, young people have **removed the barriers of time and distance in sales / broken down the time-and-space barriers to sales**, helping farm products go beyond the countryside and reach / enter bigger markets.
 
 ## 黄浦一模
 
-**1.** 新政策**适⽤于**公司的所有部⻔。(apply)
+**1.** 新政策**适用于**公司的所有部门。(apply)
 
 > The new policy **applies to** all sections / departments of the company.
 
-**2.** 这个在线课程的教学⽅式与线下课程⾮常相似。(way)
+**2.** 这个在线课程的教学方式与线下课程非常相似。(way)
 
 > This online course **is given in a way very similar to** that of offline courses.
 >
 > The way (that/in which) this online course is **set up works** pretty much like real classroom classes.
 
-**3.** 旅居海外多年，归来时才明⽩，原来我**⼼⼼念念的地⽅**⼀直在这⾥。(abroad)
+**3.** 旅居海外多年，归来时才明白，原来我**心心念念的地方**一直在这里。(abroad)
 
-> Having lived abroad for many years, I finally realized when I returned / **upon my return** that **this was the place I had always longed for / the place I’d been missing all along was right here / the place I cherished deeply had always been here / this is where my heart has always been.**.
+> Having lived abroad for many years, I finally realized when I returned / **upon my return** that **this was the place I had always longed for / the place I’d been missing all along was right here / the place I cherished deeply had always been here / this is where my heart has always been.**
 
-**4.** 这家饭店确实很棒，但对我来说太贵了，所以最后我选择了⼀家**名不⻅经传**但**性价⽐**更⾼的饭店。(as)
+**4.** 这家饭店确实很棒，但对我来说太贵了，所以最后我选择了一家**名不见经传**但**性价比**更高的饭店。(as)
 
 > The restaurant was indeed excellent, but as it was too expensive for me, I finally chose an **unknown** one with better **cost-effectiveness**.
 > 
@@ -94,7 +94,7 @@
 
 **3.** 汉字并非简单的符号，而是图像的组合，能让读者联想到自然万物。（Instead of）
 
-> Instead of being single symbols, Chinese characters are a combination of images, **reminding readers of** everything in nature.
+> Instead of being simple symbols, Chinese characters are a combination of images, **reminding readers of** everything in nature.
 
 **4.** 这座主题乐园中的 24 口钟均未显示正确时间，让游客感到时间停滞，因而沉醉于游览体验中。（so that）
 
@@ -102,7 +102,7 @@
 
 ## 金山一模
 
-**1.** 每当他⾼兴的时候，就会⼿舞⾜蹈。(whenever)
+**1.** 每当他高兴的时候，就会手舞足蹈。(whenever)
 
 > Whenever he feels happy / delighted / **is in a good mood**, he can’t help waving his hands and jumping for joy / he dances with excitement.
 
@@ -110,33 +110,33 @@
 
 > If the data **holds water / is valid / holds up**, it will **throw / shed / cast light on** the problem / issue we are investigating / under investigation / being investigated.
 
-**3.** 劳动实践不仅能让我们体会劳动价值，还能培养⼯匠精神，从⽽助⼒个⼈⻓远发展。(not only)
+**3.** 劳动实践不仅能让我们体会劳动价值，还能培养工匠精神，从而助力个人长远发展。(not only)
 
 > Labor practice not only helps us understand / realize the value of working / labour but also **develops / cultivates craftsman’s spirit**, (thus) supporting / contributing to / boosting our long-term personal **growth**.
 
-**4.** ⼈们习惯了通过社交媒体上的视频了解⽬的地，这类视频能为⾃主出⾏提供实⽤参考，让他们更有信⼼地奔赴陌⽣之地。(research)
+**4.** 人们习惯了通过社交媒体上的视频了解目的地，这类视频能为自主出行提供实用参考，让他们更有信心地奔赴陌生之地。(research)
 
 > People have become accustomed / used to research**ing** travel destinations via / through social media videos, which provide **practical insights into** their independent travel and help them feel more confident about **exploring** unfamiliar places.
 
 ## 静安一模
 
-**1.** 别把那个花瓶放在书架最上⾯，它可能会掉下来。(vase)
+**1.** 别把那个花瓶放在书架最上面，它可能会掉下来。(vase)
 
 > Don’t put the vase on (the) top of the bookshelf or it might / may **fall down / off**.
 >
 > Don’t put the vase on (the) top of the bookshelf in case it falls off / for fear that it (should) fall off.
 
-**2.** 冬⽇清晨，没什么⽐喝上⼀杯热⽓腾腾的⾖浆更美妙的了。(than)
+**2.** 冬日清晨，没什么比喝上一杯热气腾腾的豆浆更美妙的了。(than)
 
 > On a winter morning, nothing is more wonderful / fantastic / fascinating / delightful than drinking a cup of steaming / hot **soy(bean) milk**.
 
-**3.** 这位年轻的画家凭借细腻的笔触，迅速获得业界⻘睐，订单纷⾄沓来。（favor）
+**3.** 这位年轻的画家凭借细腻的笔触，迅速获得业界青睐，订单纷至沓来。（favor）
 
-> The young painter quickly **won** / gained / found favor in the industry with / due to his **delicate brushstrokes** and orders poured in / kept **pouring in**.
+> The young painter quickly **won** / gained / found favor in the industry with / due to his **delicate brushstrokes**, and orders poured in / kept **pouring in**.
 
-**4.** 虽然这座矗⽴于市中⼼的纪念碑形制朴素，但它作为历史⻅证，始终塑造着我们的⺠族精神，激励着后⼈。(Though)
+**4.** 虽然这座矗立于市中心的纪念碑形制朴素，但它作为历史见证，始终塑造着我们的民族精神，激励着后人。(Though)
 
-> Though the monument / memorial standing / located / situated / lying in / at the city center is simple / plain in form / shape /design, as a witness to history / as a historical witness, it has always shaped / cultivated our national spirit(s) and inspired / motivated / encouraged future generations / our **offspring** / **descendants**.
+> Though the monument / memorial standing / located / situated / lying in / at the city center is simple / plain in form / shape / design, as a witness to history / as a historical witness, it has always shaped / cultivated our national spirit(s) and inspired / motivated / encouraged future generations / our **offspring** / **descendants**.
 
 ## 闵行一模
 
@@ -150,13 +150,13 @@
 
 **3.** 凭借过硬的专业素养，面试后，多家研发机构向这位毕业生伸出了橄榄枝。（Thanks to）
 
-> Thanks to his strong **professional competence / skills / expertise**, this graduate received job offers from several **research and development institutions** after the interview.
+> Thanks to his strong **professional competence / skills / expertise**, this graduate received job offers from several **research and development institutions** after the interview.
 >
 > multiple research and development institutions **offered positions / extended offers to** this graduate
 
 **4.** 受深厚的农耕文化与生态旅游资源驱动，这座偏远村庄如今已蜕变为宜居宜游的美丽乡村。（fuel）
 
-> Fueled by / Having been fueled by / Fuelled by its rich farming culture and **eco-tourism** resources, this remote / distant / faraway / isolated village has now (been) transformed into a **livable / habitable** and tourist-friendly beautiful country / village.
+> Fueled by / Having been fueled by / Fuelled by its rich farming culture and **eco-tourism** resources, this remote / distant / faraway / isolated village has now (been) transformed into a **livable / habitable**, beautiful and tourist-friendly village / countryside.
 
 ## 浦东一模
 
@@ -192,7 +192,7 @@
 
 **3.** 这位软件工程师每每遇到问题时都会向团队求助，这足以说明团队协作的核心价值。(Every time...)
 
-> Every time the software engineer **encounters** a problem,  he **turns to** his team for help, which clearly shows the core value of teamwork.
+> Every time the software engineer **encounters** a problem,  he **turns to** his team for help, which clearly shows the core value of teamwork.
 >
 > 没有 Every time when ... 的用法
 

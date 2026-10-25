@@ -65,7 +65,7 @@
 | 61 | 阐明 | **cast/throw light on** |
 | 62 | 为某事设限 | **set a limit on sth** |
 | 63 | 限速每小时80英里 | **a speed limit of 80mph** |
-| 64 | 没有限制。 | **Sky is the limit.** |
+| 64 | 没有限制。 | **The sky is the limit.** |
 | 65 | 排队 | **(people) line up** |
 | 66 | 与...一致 | **be in line with...** |
 | 67 | 流水线 | **a/the assembly line** |

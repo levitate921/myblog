@@ -65,7 +65,7 @@
 | 61 | 对...狂热/有热情的 | **be enthusiastic about sth** |
 | 62 | 有资格做某事 | **be entitled to sth / to do sth** |
 | 63 | 公园入口处 | **the entrance to the park** |
-| 64 | 等同于 | **A equal B in ... = A is equal to B in...** |
+| 64 | 等同于 | **A equals B in ... = A is equal to B in ...** |
 | 65 | 配备有/具备有 | **be equipped with sth** |
 | 66 | 能够做... | **be equipped to do** |
 | 67 | 在C方面A与B相等 | **A is equivalent to B in C** |
@@ -79,7 +79,7 @@
 | 75 | 粗略/详细估计 | **make a rough/detailed estimate** |
 | 76 | 据估计/估算 | **It is estimated that...** |
 | 77 | 确切的说 | **to be exact** |
-| 78 | 体检 | **a medical / physical examination/checkout** |
+| 78 | 体检 | **a medical / physical examination/checkup** |
 | 79 | 以...为榜样；效仿某人 | **follow one's example** |
 | 80 | 给某人树立榜样 | **set an example for sb** |
 | 81 | 用A换B | **exchange A for B** |

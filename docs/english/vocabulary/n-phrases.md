@@ -36,11 +36,11 @@
 | 32 | 祸不单行 | **It never rains but it pours.** |
 | 33 | 最好的 | **be next/second to none** |
 | 34 | 日日夜夜 | **day and night** |
-| 35 | 无人知晓 | **There is no knowing that...** |
+| 35 | 无人知晓 | **There is no knowing whether/when ...** |
 | 36 | 不可否认 | **There is no denying that...** |
-| 37 | 无法预知 | **There is no telling that...** |
+| 37 | 无法预知 | **There is no telling whether/when ...** |
 | 38 | 点头表同意 | **nod one's approval/agreement** |
-| 39 | 不是别人正是TOM | **none other than Tom** |
+| 39 | 不是别人，正是 Tom | **none other than Tom** |
 | 40 | 直飞航班 | **a non-stop flight to New York** |
 | 41 | 恢复原样/正常 | **go back to normal / return to normal** |
 | 42 | 高于/低于正常值 | **above/below normal** |
@@ -55,7 +55,7 @@
 | 51 | 到目前为止 | **up to now / until now = so far** |
 | 52 | 从今以后 | **from now on** |
 | 53 | 有时/时而 | **now and then** |
-| 54 | 机不可失，失不再来 | **It is now or never.** |
+| 54 | 机不可失，时不再来 | **It is now or never.** |
 | 55 | 核心家庭（只有父母和孩子的小家庭） | **a nuclear family** |
 | 56 | 偶数/奇数 | **even/odd numbers** |
 | 57 | 大量地 | **in large numbers** |

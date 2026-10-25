@@ -65,7 +65,7 @@
 | 61 | 投入时间/精力做某事 | **invest time/energy in** |
 | 62 | 投资教育 | **invest in education** |
 | 63 | 某人看不到某物 | **sth is invisible to sb** |
-| 64 | 肉眼可见 | **sth be visible to naked eyes** |
+| 64 | 肉眼可见 | **sth be visible to the naked eye** |
 | 65 | 使某人卷入/参加某事 | **involve sb in sth / sb be/get involved in doing sth** |
 | 66 | 使某人孤立/隔离 | **isolate sb from sth** |
 | 67 | 热门话题 | **the hot issue** |
